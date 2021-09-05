@@ -74,8 +74,8 @@
 * Herlambang Dwi Prasetyo - herlambangdwi.prasetyo@gmail.com
 * Pandu Ananto Hogantara - panduanantoh@gmail.com
 
-Project Link: [https://github.com/irzanfn/TrashApp](https://github.com/irzanfn/TrashApp)
-Machine Learning Modeling Link : [https://github.com/irzanfn/WasteClassification](https://github.com/irzanfn/WasteClassification)
+<p>Project Link: https://github.com/irzanfn/TrashApp</p>
+<p>Machine Learning Modeling Link : https://github.com/irzanfn/WasteClassification</p>
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
