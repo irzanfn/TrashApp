@@ -50,15 +50,15 @@
 
 * Display Before Prediction
 
-![image](![gambar](https://user-images.githubusercontent.com/67045123/132121249-6a72ba52-57c8-43d3-b00c-fedbc7749f89.png))
+![gambar](https://user-images.githubusercontent.com/67045123/132121249-6a72ba52-57c8-43d3-b00c-fedbc7749f89.png)
 
 * Uploading Image
 
-![image](![gambar](https://user-images.githubusercontent.com/67045123/132121266-dab134c4-4d2e-4d50-a9c3-d50e40843ccb.png))
+![gambar](https://user-images.githubusercontent.com/67045123/132121266-dab134c4-4d2e-4d50-a9c3-d50e40843ccb.png)
 
 * Display After Prediction
 
-![image](![gambar](https://user-images.githubusercontent.com/67045123/132121272-80124e68-03db-45d6-83d0-99a8dc61736f.png))
+![gambar](https://user-images.githubusercontent.com/67045123/132121272-80124e68-03db-45d6-83d0-99a8dc61736f.png)
 
 
 ### Built With
